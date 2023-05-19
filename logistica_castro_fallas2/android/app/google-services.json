@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "293470564109",
+    "project_id": "logistica-castro-fallas",
+    "storage_bucket": "logistica-castro-fallas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293470564109:android:5dbfa4856dbd0aeb638a44",
+        "android_client_info": {
+          "package_name": "com.grupocastrofallas.logistica_castro_fallas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293470564109-gnl45rrir2o3kcko9p2rujga4lri5jf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCObo7bIrNarTuy_q9LTUJtvIXTZvKgS0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293470564109-gnl45rrir2o3kcko9p2rujga4lri5jf2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293470564109-a3dmuo7kbsdcdcj04gkkj5ksdim7qe3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.logisticaCastroFallas2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
